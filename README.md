@@ -1,4 +1,4 @@
-## je suis allegriakinzola :congo_kinshasa:
+## je suis allegriakinzola 🇨🇩
 ---
 ### A propos de moi 
 Je suis developpeur web fullstack amoureux de javascript💖, je maitrise majoritairement les technologies javascript.
