@@ -1,40 +1,15 @@
-AllegriAkinzola 🇨🇩
-✨ À propos de moi
-Je suis développeur web fullstack, passionné par l’écosystème JavaScript et les technologies modernes du web. Mon objectif principal est de concevoir des solutions innovantes qui répondent aux problèmes du quotidien.
+---
+### A propos de moi 
+Je suis developpeur web fullstack amoureux de javascript💖, je maitrise majoritairement les technologies javascript.
+ma plus grande motivation dans ce domaine est **de developper des technologies innovantes permettant de résoudre 
+les problèmes quotidiens des etres humains.** bref, je ne vais pas beaucoup écrire 😂, il parait que les developpeurs *n'écrivent pas trop mais ils travaillent beacoup.* je suis disponible pour travailler sur des projets révolutionnaires et innovantes ⚡. 
 
-💡 Je crois fermement que la technologie a le pouvoir de transformer des vies, et je suis toujours prêt à relever des défis ambitieux pour y contribuer.
-
-« Les développeurs n'écrivent peut-être pas beaucoup, mais ils changent le monde avec leur code. » 🚀
-
-Je suis disponible et enthousiaste à l'idée de collaborer sur des projets révolutionnaires et innovants. ⚡
-
-🛠️ Technologies que je maîtrise
-Voici un aperçu des technologies et outils que j’utilise régulièrement pour créer des solutions robustes et performantes :
-
-Frontend
-React.js ⚛️
-Next.js 🚀
-Vue.js 🖖
-Tailwind CSS 🎨
-HTML5 / CSS3
-Backend
-Node.js 🌐
-Express.js
-Nest.js 🛡️
-MongoDB (Mongoose)
-PostgreSQL / MySQL
-Outils et Déploiement
-Docker 🐳
-Git / GitHub / GitLab
-CI/CD (GitHub Actions, GitLab CI)
-AWS / Heroku / Vercel
-Storybook 📚
-🌟 Ce que je fais actuellement
-🔭 Je travaille sur : [Votre projet actuel ou vos activités principales]
-🌱 J'apprends actuellement : [Technologies ou concepts que vous explorez]
-👯 Je cherche à collaborer sur : Des projets web innovants, des startups, ou des solutions technologiques à impact social.
-🤔 J’ai besoin d’aide avec : [Facultatif]
-💬 Demandez-moi à propos de : Développement fullstack, JavaScript, React, Node.js ou la création d'APIs performantes.
-📫 Comment me contacter : [Ajoutez votre email, profil LinkedIn, GitHub, etc.]
-😄 Pronom : Il / Lui
-⚡ Fun fact : Je peux passer des heures à coder sans m'en rendre compte, mais je suis toujours disponible pour partager un café ! ☕
+## Me rétrouver
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
