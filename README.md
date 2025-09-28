@@ -1,181 +1,149 @@
-# 🏧 ATM Management System
+# 👋 Salut, je suis Allegria Kinzola !
 
-Une plateforme moderne de gestion des distributeurs automatiques de billets (ATM) pour la République Démocratique du Congo, développée avec les dernières technologies web.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+Full+Stack;Marketeur+Digital;Graphiste+Cr%C3%A9atif;Passionn%C3%A9+de+JavaScript+%F0%9F%92%96" alt="Typing SVG" />
+</div>
 
-## 🚀 Fonctionnalités
+## 🚀 À Propos de Moi
 
-### 👨‍💼 Pour les Administrateurs
-- **Dashboard complet** avec statistiques en temps réel
-- **Gestion des utilisateurs** (opérateurs, administrateurs)
-- **Gestion géographique** des provinces et communes
-- **Vue d'ensemble des ATM** de tous les opérateurs
-- **Système de rôles** et permissions avancées
+Développeur passionné par la création d'expériences digitales uniques, basé en **République Démocratique du Congo**. Je combine créativité et expertise technique pour donner vie à vos projets les plus ambitieux.
 
-### 🏦 Pour les Opérateurs
-- **Gestion personnalisée** de leurs propres ATM
-- **Interface intuitive** pour ajouter/modifier/supprimer des ATM
-- **Localisation GPS** précise des distributeurs
-- **Suivi des informations** techniques (modèle, numéro de série, etc.)
+> *"Ma plus grande motivation est de développer des technologies innovantes permettant de résoudre les problèmes quotidiens des êtres humains."* ⚡
 
-### 🌍 Fonctionnalités Géographiques
-- **Couverture complète** de la RDC (26 provinces, 145 communes)
-- **Navigation par slug** pour un SEO optimisé
-- **Recherche avancée** par province et commune
-- **Coordonnées GPS** obligatoires pour chaque ATM
+### 🎯 Ce que je fais
+- 💻 **Développement Full Stack** - Applications web modernes et performantes
+- 🎨 **Design UI/UX** - Interfaces élégantes et intuitives  
+- 📱 **Applications Mobiles** - Solutions cross-platform
+- 🚀 **Marketing Digital** - Stratégies digitales efficaces
+- 🎨 **Design Graphique** - Identités visuelles marquantes
 
-## 🛠️ Technologies Utilisées
+## 📊 Statistiques
+
+<div align="center">
+  
+| 🚀 Projets Réalisés | 👥 Clients Satisfaits | 📅 Années d'Expérience |
+|:-------------------:|:---------------------:|:----------------------:|
+| **10+** | **8+** | **3+** |
+
+</div>
+
+## 🛠️ Technologies & Outils
 
 ### Frontend
-- **[Next.js 15](https://nextjs.org/)** - Framework React avec App Router
-- **[TypeScript](https://www.typescriptlang.org/)** - Typage statique pour plus de robustesse
-- **[Tailwind CSS](https://tailwindcss.com/)** - Framework CSS utilitaire
-- **[Shadcn/ui](https://ui.shadcn.com/)** - Composants UI modernes et accessibles
-- **[Lucide React](https://lucide.dev/)** - Icônes élégantes et cohérentes
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+</div>
 
-### Backend & Base de Données
-- **[Prisma](https://www.prisma.io/)** - ORM moderne pour TypeScript
-- **[PostgreSQL](https://www.postgresql.org/)** - Base de données relationnelle robuste
-- **[NextAuth.js](https://next-auth.js.org/)** - Authentification sécurisée
-- **[bcryptjs](https://www.npmjs.com/package/bcryptjs)** - Hachage des mots de passe
+### Backend & Bases de Données
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo" />
+</div>
 
-### Outils de Développement
-- **[ESLint](https://eslint.org/)** - Linting et qualité du code
-- **[PostCSS](https://postcss.org/)** - Transformation CSS
-- **[Turbopack](https://turbo.build/pack)** - Bundler ultra-rapide
+### DevOps & Outils
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+</div>
 
-## 📦 Installation
+### Design & Créativité
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+</div>
 
-### Prérequis
-- Node.js 18+ 
-- PostgreSQL
-- npm ou yarn
+## 📈 Statistiques GitHub
 
-### Configuration
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=allegriakinzola&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=fr&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allegriakinzola&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
 
-1. **Cloner le projet**
-```bash
-git clone https://github.com/allegriakinzola/atm.git
-cd atm
-```
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=allegriakinzola&locale=fr&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
 
-2. **Installer les dépendances**
-```bash
-npm install
-```
+## 🏆 Projets Phares
 
-3. **Configuration de l'environnement**
-```bash
-cp .env.example .env.local
-```
+### 🏧 ATM Management System
+Plateforme de gestion des distributeurs automatiques pour la RDC
+- **Tech Stack:** Next.js 15, TypeScript, Prisma, PostgreSQL
+- **Features:** Dashboard admin, gestion géographique, authentification multi-rôles
+- [🔗 Voir le projet](https://github.com/allegriakinzola/atm)
 
-Configurer les variables dans `.env.local` :
-```env
-# Base de données
-DATABASE_URL="postgresql://username:password@localhost:5432/atm_db"
+### 🌐 Portfolio Personnel
+Site web moderne et responsive
+- **Tech Stack:** Next.js, Tailwind CSS, Framer Motion
+- **Features:** Design moderne, animations fluides, SEO optimisé
+- [🔗 Visiter](https://allegriakinzola.com)
 
-# NextAuth
-NEXTAUTH_SECRET="your-secret-key"
-NEXTAUTH_URL="http://localhost:3000"
+## 🎯 Actuellement
 
-# OAuth (optionnel)
-GOOGLE_CLIENT_ID="your-google-client-id"
-GOOGLE_CLIENT_SECRET="your-google-client-secret"
-GITHUB_CLIENT_ID="your-github-client-id"
-GITHUB_CLIENT_SECRET="your-github-client-secret"
-```
+- 🔭 Je travaille sur des **projets innovants** en JavaScript
+- 🌱 J'apprends **l'IA et le Machine Learning**
+- 👯 Je cherche à collaborer sur des **projets révolutionnaires**
+- 💬 Demandez-moi à propos de **React, Next.js, Node.js**
+- ⚡ Fun fact: **Les développeurs n'écrivent pas trop mais travaillent beaucoup** 😂
 
-4. **Configuration de la base de données**
-```bash
-# Générer le client Prisma
-npx prisma generate
+## 📫 Me Contacter
 
-# Exécuter les migrations
-npx prisma migrate dev
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://allegriakinzola.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@allegriakinzola.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allegriakinzola)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/allegriakinzola)
 
-# Peupler la base de données
-npx prisma db seed
-```
+</div>
 
-5. **Lancer le serveur de développement**
-```bash
-npm run dev
-```
+## 🐍 Contribution Snake
 
-Ouvrir [http://localhost:3000](http://localhost:3000) dans votre navigateur.
-
-## 🗂️ Structure du Projet
-
-```
-├── app/                    # App Router de Next.js
-│   ├── (public)/          # Pages publiques
-│   ├── admin/             # Interface administrateur
-│   ├── operateur/         # Interface opérateur
-│   └── api/               # API Routes
-├── components/            # Composants réutilisables
-│   └── ui/                # Composants UI Shadcn
-├── lib/                   # Utilitaires et configurations
-│   ├── actions/           # Server Actions
-│   ├── utils/             # Fonctions utilitaires
-│   ├── auth.ts            # Configuration NextAuth
-│   └── prisma.tsx         # Client Prisma
-├── prisma/                # Schéma et migrations
-├── public/                # Assets statiques
-└── types/                 # Définitions TypeScript
-```
-
-## 🔐 Authentification
-
-Le système supporte plusieurs méthodes d'authentification :
-- **Credentials** - Email/mot de passe
-- **Google OAuth** - Connexion Google
-- **GitHub OAuth** - Connexion GitHub
-
-### Comptes par défaut (après seed)
-- **Admin** : `admin@atm.cd` / `admin123`
-- **Opérateur** : `operator@atm.cd` / `operator123`
-
-## 🚀 Déploiement
-
-### Vercel (Recommandé)
-```bash
-npm run build
-vercel --prod
-```
-
-### Docker
-```bash
-docker build -t atm-app .
-docker run -p 3000:3000 atm-app
-```
-
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! Voici comment contribuer :
-
-1. Fork le projet
-2. Créer une branche (`git checkout -b feature/nouvelle-fonctionnalite`)
-3. Commit les changements (`git commit -m 'Ajout nouvelle fonctionnalité'`)
-4. Push vers la branche (`git push origin feature/nouvelle-fonctionnalite`)
-5. Ouvrir une Pull Request
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## 👨‍💻 Développeur
-
-**Allegria Kinzola** - Développeur Full Stack passionné de JavaScript 💖
-
-- 🌐 Portfolio: [allegriakinzola.com](https://allegriakinzola.com)
-- 📧 Email: contact@allegriakinzola.com
-- 💼 LinkedIn: [Allegria Kinzola](https://linkedin.com/in/allegriakinzola)
-- 🐙 GitHub: [@allegriakinzola](https://github.com/allegriakinzola)
-
-> "Ma plus grande motivation est de développer des technologies innovantes permettant de résoudre les problèmes quotidiens des êtres humains." ⚡
+<div align="center">
+  <img src="https://raw.githubusercontent.com/allegriakinzola/allegriakinzola/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 <div align="center">
-  <p>Fait avec ❤️ en République Démocratique du Congo</p>
-  <p>© 2024 Allegria Kinzola. Tous droits réservés.</p>
+  <img src="https://komarev.com/ghpvc/?username=allegriakinzola&label=Visiteurs&color=0e75b6&style=flat" alt="visiteurs" />
+  
+  ### 💖 Fait avec passion en République Démocratique du Congo
+  
+  **"Code is poetry, and I'm the poet."** ✨
+</div>
+
+<!-- Badges animés -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red.svg" />
+  <img src="https://img.shields.io/badge/JavaScript-💖-yellow.svg" />
+  <img src="https://img.shields.io/badge/Open%20Source-✨-green.svg" />
 </div>
