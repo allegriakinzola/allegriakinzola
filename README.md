@@ -92,28 +92,6 @@ Développeur passionné par la création d'expériences digitales uniques, basé
   <img src="https://streak-stats.demolab.com?user=allegriakinzola&locale=fr&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
-## 🏆 Projets Phares
-
-### 🏧 ATM Management System
-Plateforme de gestion des distributeurs automatiques pour la RDC
-- **Tech Stack:** Next.js 15, TypeScript, Prisma, PostgreSQL
-- **Features:** Dashboard admin, gestion géographique, authentification multi-rôles
-- [🔗 Voir le projet](https://github.com/allegriakinzola/atm)
-
-### 🌐 Portfolio Personnel
-Site web moderne et responsive
-- **Tech Stack:** Next.js, Tailwind CSS, Framer Motion
-- **Features:** Design moderne, animations fluides, SEO optimisé
-- [🔗 Visiter](https://allegriakinzola.com)
-
-## 🎯 Actuellement
-
-- 🔭 Je travaille sur des **projets innovants** en JavaScript
-- 🌱 J'apprends **l'IA et le Machine Learning**
-- 👯 Je cherche à collaborer sur des **projets révolutionnaires**
-- 💬 Demandez-moi à propos de **React, Next.js, Node.js**
-- ⚡ Fun fact: **Les développeurs n'écrivent pas trop mais travaillent beaucoup** 😂
-
 ## 📫 Me Contacter
 
 <div align="center">
