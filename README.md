@@ -23,7 +23,7 @@ Développeur passionné par la création d'expériences digitales uniques, basé
   
 | 🚀 Projets Réalisés | 👥 Clients Satisfaits | 📅 Années d'Expérience |
 |:-------------------:|:---------------------:|:----------------------:|
-| **10+** | **8+** | **3+** |
+| **15+** | **10+** | **4+** |
 
 </div>
 
