@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+Full+Stack;Marketeur+Digital;Graphiste+Cr%C3%A9atif;Passionn%C3%A9+de+JavaScript+%F0%9F%92%96" alt="Typing SVG" />
 </div>
 
-## 🚀 À Propos de Moi----------
+## 🚀 À Propos de Moi------------
 
 Développeur passionné par la création d'expériences digitales uniques, basé en **République Démocratique du Congo**. Je combine créativité et expertise technique pour donner vie à vos projets les plus ambitieux.
 
